@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "browserify": "^4.0.0",
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^0.3.2",
+    "react": "^0.11.1",
+    "reactify": "^0.14.0",
+    "vinyl-source-stream": "^0.1.1",
+    "watchify": "^0.8.1"
+  }
+}
